@@ -1,6 +1,6 @@
 locals {
   common_tags = {
-    owner = "jhonnyulisilva"
+    owner      = "jhonnyulisilva"
     managed-by = "terraform"
   }
 }
